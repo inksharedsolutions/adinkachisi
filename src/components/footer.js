@@ -19,7 +19,7 @@ const Footer = ()=>{
                         </h1>
                         <p>
                             Adin Kachisi loves to hear from readers. You can reach him via email. 
-                            Feel free to send questions about writing, her works, interviews 
+                            Feel free to send questions about writing, his works, interviews 
                             and other publicity matters.
                         </p> 
                         
@@ -27,7 +27,7 @@ const Footer = ()=>{
                         <ul>
 
                             <li>
-                                <a href="https://www.facebook.com/Adelia-Goncalves-310655932870638/"
+                                <a href="https://www.facebook.com/Adin-Kachisi-2219265034958157/"
                                 target="_blank">
                                     <FontAwesomeIcon
                                         className='font-awesome'
@@ -38,7 +38,7 @@ const Footer = ()=>{
                             <li>
                                 <a 
                                     target="_blank"
-                                    href="https://twitter.com/authorpennymc">
+                                    href="https://twitter.com/strattonpress/">
                                     <FontAwesomeIcon
                                         className='font-awesome'
                                         icon={faTwitter} />

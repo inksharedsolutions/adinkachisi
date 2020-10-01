@@ -41,7 +41,7 @@ const ATB = (props)=>{
                                     content:
                                     `
                                     <p>
-                                        TAn extensively illustrated, thought-provoking blend of forbidden subjects and unexplained world mysteries, Deep Down the Rabbit Hole: Reality is Not What You Think, challenges established beliefs, views, norms and current structures on a journey unveiling the hidden mysteries of mankind: past, present and reality itself. Imagine:
+                                        An extensively illustrated, thought-provoking blend of forbidden subjects and unexplained world mysteries, Deep Down the Rabbit Hole: Reality is Not What You Think, challenges established beliefs, views, norms and current structures on a journey unveiling the hidden mysteries of mankind: past, present and reality itself. Imagine:
                                     </p> 
                                     
                                     <p>
@@ -57,11 +57,7 @@ const ATB = (props)=>{
                                     </p>
 
                                     <p> 
-                                        It reveals the truth behind our current state as pawns for parasitic elites, dispensable batteries for economies and mass consumers of unworthy products, ideologies, entertainment and prescribed dreams. The mind-blowing information and stunning conclusions will radically alter the way we view the world and ourselves
-                                    </p>
-
-                                    <p>
-                                        “Deep Down the Rabbit Hole” provides the reader with an assemblage of nearly all that we don’t know nor completely understand in spite of modern science and common sense, but yet have experienced by individuals throughout our human history up to today. It is written in an entertaining style with “tons” of illustrations and I’m sure you will find it worthwhile pondering the mysteries it explores.
+                                        It reveals the truth behind our current state as pawns for parasitic elites, dispensable batteries for economies and mass consumers of unworthy products, ideologies, entertainment and prescribed dreams. The mind-blowing information and stunning conclusions will radically alter the way we view the world and ourselves.
                                     </p>
                                     `,
 

@@ -12,7 +12,7 @@ const { Option } = Select
 const text = `
   Reality is Not What You Think, challenges established beliefs, 
   views, norms and current structures on a journey unveiling the 
-  hidden mysteries of mankind: past, present and reality itself. Imagine:
+  hidden mysteries of mankind: past, present and reality itself.
 `;
 
 

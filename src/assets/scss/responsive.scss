@@ -2,6 +2,14 @@
 /*
 * Responsive Media Queries
 */
+@media screen and (max-width: 1366px){
+    .auth-img-container{
+        img{
+            height: auto;
+        }
+    }
+}
+
 @media screen and ( max-width : 1350px){
     .flex-container{
         h1{
@@ -30,6 +38,16 @@
     }
 }
 
+@media screen and ( min-width : 1040px){ 
+    .auth-img-container{
+        img{
+            height: auto;
+            padding-left: 0%;
+        }
+        
+    }
+}
+
 @media screen and ( max-width : 990px){
 
     .footer-paragraph-info{
@@ -53,7 +71,7 @@
 
     .hamburger-ul{
         padding: 14px 10px;
-        background: #2da6d9;
+        
         border-radius: 50px;
     }
 
@@ -64,7 +82,7 @@
         }
     }
     .navigation{
-        display: none;
+        // display: none;
     }
 
     .logo-img{
@@ -251,6 +269,16 @@
     }
 }
 
+@media screen and (max-width: 768px){
+    .auth-img-container{
+        img{
+            height: auto;
+            padding-left: 0%;
+        }
+        
+    }
+}
+
 @media screen and (max-width: 650px){
 
     .banner-section{
@@ -414,6 +442,7 @@
         display: block !important;
         margin: 14px auto !important;
     }
+
 }
 
 @media screen and (max-width: 550px){
@@ -470,6 +499,13 @@
             margin: 10% 0;
         }
     }
+    .auth-img-container{
+        img{
+            height: auto;
+            padding-left: 0%;
+        }
+        
+    }
 }
 
 @media screen and (max-width: 450px){
@@ -517,7 +553,9 @@
     .auth-img-container{
         img{
             height: auto;
+            padding-left: 0%;
         }
+        
     }
 
 

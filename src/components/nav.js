@@ -76,7 +76,7 @@ const Nav = (props) => {
                     </span>
 
                     <ul>
-                        <p className="list-label">
+                        <p class="list-label">
                             Navigations.
 						</p>
                         <li>
