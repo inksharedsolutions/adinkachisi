@@ -12,7 +12,7 @@ const ATB = (props)=>{
     const slug =(props.location.href);
     
 	const disqusConfig = {
-	  shortname: 'ava-philips',
+	  shortname: 'adin-kachisi',
 	  config: { identifier:  12, slug}
     }
     
